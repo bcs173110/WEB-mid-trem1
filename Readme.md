@@ -36,7 +36,7 @@ add / insert the data. Click this link and see its code [Insert Code](insert.txt
 
 ### Delete:
 If someone leave you company and you want to remove / delete the data of that person just open the profile of person and delete 
-the data. Click this link and see its code [delete Code](delete.txt). Just click on delete button.
+the data. Click this link and see its code [delete Code](delete.txt). 
 
 
 ![](delete.PNG)
