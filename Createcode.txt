@@ -1,6 +1,4 @@
-body>
-    <div class="container">
-	<h2>Add Person<h2>
+
 	
 	<form>
 	
