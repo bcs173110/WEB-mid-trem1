@@ -66,20 +66,20 @@ Angular is quit easy to SJON. First create the website front hand profile and it
 click this link to see [Angular Code](Angular.html)
 
 ### Update:
-If you want to update any person data just open its form and update it. Click to see update code [Update Code](updatea.txt)
+If you want to update any person data just open its form and update it. Click to see update code [Update Code](update2.txt)
 just click on Update button
 
 ![](updatea.PNG)
 
 ### Insert:
 When a person comes to your company and join it then you want to enter that person record open website and insert the data
-on it. [Insert Code](inserta.txt)
+on it. [Insert Code](insert.txt)
 
 ![](inserta.PNG)
 
 
 ### Delete:
 If any enployee want to leave the company and company owner want to delete the record of the enployee just see the below how to
-delete record. [Delete Code](deletea.txt) just click on Delete button.
+delete record. [Delete Code](delete.txt) 
 
 ![](deletea.PNG)
