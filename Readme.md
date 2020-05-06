@@ -23,7 +23,7 @@ click this link to see its code [Create Code](create.txt)
 ### Update:
 When you have to be done fronthand section then you appling CURD operation on the website properly.If you add data in 
 your website and you want to update person's data you just open your web page and update as you want. You can see below the 
-updating. Click this link and see its code [Update Code](updating.txt). When you enter all the data just click on Update button.
+updating. Click this link and see its code [Update Code](update.txt). When you enter all the data just click on Update button.
 
 
 ![](update.PNG)
